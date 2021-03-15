@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IPDemo", "IPDemo\IPDemo.vcxproj", "{976FEF85-5215-4E2C-9BA9-183A05BBA520}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{976FEF85-5215-4E2C-9BA9-183A05BBA520}.Debug|x64.ActiveCfg = Debug|x64
+		{976FEF85-5215-4E2C-9BA9-183A05BBA520}.Debug|x64.Build.0 = Debug|x64
+		{976FEF85-5215-4E2C-9BA9-183A05BBA520}.Debug|x86.ActiveCfg = Debug|Win32
+		{976FEF85-5215-4E2C-9BA9-183A05BBA520}.Debug|x86.Build.0 = Debug|Win32
+		{976FEF85-5215-4E2C-9BA9-183A05BBA520}.Release|x64.ActiveCfg = Release|x64
+		{976FEF85-5215-4E2C-9BA9-183A05BBA520}.Release|x64.Build.0 = Release|x64
+		{976FEF85-5215-4E2C-9BA9-183A05BBA520}.Release|x86.ActiveCfg = Release|Win32
+		{976FEF85-5215-4E2C-9BA9-183A05BBA520}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D65AFED3-75EA-4932-AC6F-19E4558DF63F}
+	EndGlobalSection
+EndGlobal
